@@ -1,0 +1,39 @@
+{
+	"bio": {
+		"first_name": "JERAHMEEL",
+		"middle_name": "OVIE",
+		"surname": "ANIBOR",
+		"gender": "MALE",
+		"date_of_birth": "1992-10-19",
+		"nationality": "NIGERIA",
+		"country_code": "NGA",
+		"currency_code": "NGN"
+	},
+	"email_address": "jerahmeelanibor@gmail.com",
+	"email_address_verified": "Y",
+	"user_key": "aS47z9xfLtN1kc6YOvu5heHzQH8lO4",
+	"account_key": "J9OBo7oGSW7Oto4eywAD4XiSI0j9Pb",
+	"session_id": "404832137402671868816184665583",
+	"account": {
+		"name": "REDBILLER TECHNOLOGIES INC",
+		"type": "BUSINESS",
+		"avatar": "/assets/media/avatars/300-2.jpg",
+		"registration_number": "01234",
+		"business_type": "LIMITED LIABILITY",
+		"vat_number": "56789",
+		"industry": "FINTECH",
+		"nature_of_business": "International remittance",
+		"is_default": "Y",
+		"phone_number": "+2349155174031",
+		"email_address": "jerahmeelanibor@gmail.com",
+		"residing": {
+			"country": "NIGERIA",
+			"country_code": "NGA",
+			"currency_code": "NGN",
+			"province": "LAGOS",
+			"city": "LEKKI",
+			"postal_code": "100005",
+			"address": "AJAH"
+		}
+	}
+}

@@ -1,0 +1,274 @@
+[
+	{
+		"product": "ILOT",
+		"logo": "https://api.live.redbiller.com/logos/betting/ilot.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "SPORTYBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/sportybet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "AFRICA365",
+		"logo": "https://api.live.redbiller.com/logos/betting/africa365.png",
+		"limits": {
+			"min_amount": 200,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "BANGBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/bangbet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "FOOTBALLING",
+		"logo": "https://api.live.redbiller.com/logos/betting/footballing.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "WAJEGAME",
+		"logo": "https://api.live.redbiller.com/logos/betting/wajegame.png",
+		"limits": {
+			"min_amount": 1000,
+			"max_amount": 100000
+		}
+	},
+	{
+		"product": "EASYWIN",
+		"logo": "https://api.live.redbiller.com/logos/betting/easywin.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "BET9JA",
+		"logo": "https://api.live.redbiller.com/logos/betting/bet9ja.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "ONE_XBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/one_xbet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 500000
+		}
+	},
+	{
+		"product": "BET9JA_AGENT",
+		"logo": "https://api.live.redbiller.com/logos/betting/bet9ja_agent.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 500000
+		}
+	},
+	{
+		"product": "BETKING",
+		"logo": "https://api.live.redbiller.com/logos/betting/betking.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "BETANO",
+		"logo": "https://api.live.redbiller.com/logos/betting/betano.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 70000
+		}
+	},
+	{
+		"product": "BETBABA",
+		"logo": "https://api.live.redbiller.com/logos/betting/betbaba.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "BETBONANZA",
+		"logo": "https://api.live.redbiller.com/logos/betting/betbonanza.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 500000
+		}
+	},
+	{
+		"product": "BETCORRECT",
+		"logo": "https://api.live.redbiller.com/logos/betting/betcorrect.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 100000
+		}
+	},
+	{
+		"product": "BETGR8",
+		"logo": "https://api.live.redbiller.com/logos/betting/betgr8.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "BETWAY",
+		"logo": "https://api.live.redbiller.com/logos/betting/betway.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "FRAPAPA",
+		"logo": "https://api.live.redbiller.com/logos/betting/frapapa.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "FUNDEN",
+		"logo": "https://api.live.redbiller.com/logos/betting/funden.png",
+		"limits": {
+			"min_amount": 1,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "GOBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/gobet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "HALLABET_AGENT",
+		"logo": "https://api.live.redbiller.com/logos/betting/hallabet_agent.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 500000
+		}
+	},
+	{
+		"product": "HELABET",
+		"logo": "https://api.live.redbiller.com/logos/betting/helabet.png",
+		"limits": {
+			"min_amount": 250,
+			"max_amount": 100000
+		}
+	},
+	{
+		"product": "BETLION",
+		"logo": "https://api.live.redbiller.com/logos/betting/betlion.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "LUCKYBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/luckybet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "MEGAMILLIONS",
+		"logo": "https://api.live.redbiller.com/logos/betting/megamillions.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 100000
+		}
+	},
+	{
+		"product": "MERRYBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/merrybet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 1000000
+		}
+	},
+	{
+		"product": "NAIRAMILLION",
+		"logo": "https://api.live.redbiller.com/logos/betting/nairamillion.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "NAIRABET",
+		"logo": "https://api.live.redbiller.com/logos/betting/nairabet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 250000
+		}
+	},
+	{
+		"product": "PARIMATCH",
+		"logo": "https://api.live.redbiller.com/logos/betting/parimatch.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "PARIPESA",
+		"logo": "https://api.live.redbiller.com/logos/betting/paripesa.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 2000000
+		}
+	},
+	{
+		"product": "STARBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/starbet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 10000000
+		}
+	},
+	{
+		"product": "SUREBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/surebet.png",
+		"limits": {
+			"min_amount": 100,
+			"max_amount": 5000000
+		}
+	},
+	{
+		"product": "YANGASPORT",
+		"logo": "https://api.live.redbiller.com/logos/betting/yangasport.png",
+		"limits": {
+			"min_amount": 200,
+			"max_amount": 100000
+		}
+	},
+	{
+		"product": "ZEBET",
+		"logo": "https://api.live.redbiller.com/logos/betting/zebet.png",
+		"limits": {
+			"min_amount": 200,
+			"max_amount": 500000
+		}
+	}
+]

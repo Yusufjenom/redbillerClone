@@ -1,0 +1,6 @@
+.transaction-table th:nth-child(2),
+.transaction-table td:nth-child(2) {
+	max-width: 250px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
